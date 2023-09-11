@@ -94,7 +94,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/musharafalii/musharafalii/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/musharafalii/output/snake.svg" alt="Snake animation" />
 
 ###
 
