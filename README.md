@@ -22,15 +22,15 @@
 
 ###
 
-<p align="left">I'm Musharaf Ali from Pakistan.<br><br>🎍Welcome to my profile👨‍💻<br>- 👦 I’m currently working on Full Stack Web Developer<br>- 💼 I’m currently learning Android Developer<br>- 👨‍💻 I’m looking to collaborate in Codechef, hackerearth etc.<br>- 📱 Mobile App developer (Learn)<br>- 🌐 Exploring Web development.<br>-  💛 Loves 🎵 and Fun and Enjoy With My Friends.</p>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h2 align="left">🛠 Languages and Tools</h2>
+<p align="left">I'm Musharaf Ali from Pakistan.<br><br>🎍Welcome to my profile👨‍💻<br>- 👦 I’m currently working on Full Stack Web Developer<br>- 💼 I’m currently learning Android Developer<br>- 👨‍💻 I’m looking to collaborate in Codechef, hackerearth etc.<br>- 📱 Mobile App developer (Learn)<br>- 🌐 Exploring Web development.<br>-  💛 Loves 🎵 and Fun and Enjoy With My Friends.</p>
+
+###
+
+<h2 align="left">ⓂLanguages and Tools💠</h2>
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/musharafalii/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/musharafali07/musharafali07/output/snake.svg" alt="Snake animation" />
 
 ###
 
