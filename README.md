@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="center">🛠 Languages and Tools</h2>
+<h2 align="left">🛠 Languages and Tools</h2>
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/musharafalii/musharafalii/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/musharafalii/output/snake.svg" alt="Snake animation" />
 
 ###
 
